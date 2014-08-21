@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="HardcodedText">
+        <ignore path="res/layout/activity_main.xml" />
+        <ignore path="res/layout/secrend.xml" />
+    </issue>
+    <issue id="MissingPrefix">
+        <ignore path="res/layout/activity_main.xml" />
+    </issue>
+    <issue id="ShowToast">
+        <ignore path="src/com/example/activity/MainActivity.java" />
+    </issue>
+</lint>
